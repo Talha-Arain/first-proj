@@ -1,4 +1,4 @@
 # first-proj
 This is my First Project on github.
 <br>
-Auther - Talha Arian
+Auther - Talha Arian (S)
